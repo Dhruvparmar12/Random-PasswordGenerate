@@ -1,0 +1,22 @@
+{
+  "name": "password-genrator",
+  "version": "1.0.0",
+  "description": "Automatic Password Genrate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv Parmar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "generate-password": "^1.4.2",
+    "node-random-name": "^1.0.1",
+    "nodemon": "^1.19.1",
+    "randomstring": "^1.1.5",
+    "username": "^5.1.0"
+  }
+}
